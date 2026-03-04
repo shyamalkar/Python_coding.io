@@ -1,4 +1,4 @@
-text = 'aplle' # String
+Text = 'aplle' # String
 
 number = 10 # int
 
