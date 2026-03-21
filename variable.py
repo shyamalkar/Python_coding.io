@@ -15,5 +15,3 @@ unique = {1, 2, 3, 4, 4, 5} # a set , recently i called this unique because a se
 #i can write duplicate but if i print this this duplicate are dissipare.
 
 users = {'Bob': 1, 'james': 2} # dictionary
-
-
